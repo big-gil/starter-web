@@ -13,4 +13,6 @@ commands using a web project.
 
 ## How to Contribute to the project
 
+This is the section on how to contribute to the project.
+
 Sample website with plenty of files for demos
