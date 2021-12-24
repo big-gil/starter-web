@@ -20,3 +20,7 @@ This is the section on how to contribute to the project
 I need to add one more line
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2021 Git Training copyright
