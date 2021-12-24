@@ -18,6 +18,7 @@ Now I'm adding more text to the deployment section.
 
 This is the section on how to contribute to the project
 I need to add one more line
+You can fork this file and do a pull request
 
 Sample website with plenty of files for demos
 
